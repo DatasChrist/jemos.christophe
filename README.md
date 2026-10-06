@@ -6,11 +6,11 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat)
+![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=flat)
 
-[LinkedIn](https://www.linkedin.com/in/j%C3%A9mos-christophebocco-djotingnon) · [Email](mailto:j.christopheboccodj@gmail.com) · [Portfolio](https://TON-PORTFOLIO)
+[LinkedIn](https://www.linkedin.com/in/j%C3%A9mos-christophebocco-djotingnon) · [Email](mailto:j.christopheboccodj@gmail.com) · [Portfolio](https://dataschrist.github.io/jemos.christophe/)
 
 </div>
 
@@ -53,7 +53,7 @@ Mon objectif : aider les directions financières de **PME et structures en crois
 - **Données :** dataset Kaggle *(nom et lien à ajouter)*.
 - **Ce que je fais :** nettoyage des données, indicateurs de risque, tableau de bord interactif.
 - **Résultat :** à venir.
-- 🔗 [Suivre l'avancement](https://github.com/TON-PSEUDO/NOM-DU-PROJET)
+- 🔗 Dépôt GitHub : bientôt disponible
 
 ### 2. Impact des infrastructures routières sur la croissance économique au Bénin
 > Stata · Économétrie · Séries temporelles · *Mémoire de Licence, mention Très Bien*
@@ -61,12 +61,12 @@ Mon objectif : aider les directions financières de **PME et structures en crois
 - **Problème :** évaluer empiriquement l'impact et l'élasticité à long terme des investissements routiers sur la croissance du PIB au Bénin.
 - **Ce que j'ai fait :** analyse économétrique et traitement de séries temporelles sous Stata, modélisation statistique, rédaction du mémoire et soutenance devant jury.
 - **Résultat :** mise en évidence d'un effet positif et statistiquement significatif du réseau routier sur la dynamique économique à long terme, confirmant le rôle moteur des infrastructures de transport dans l'activité nationale.
-- 🔗 [Code / données](https://github.com/TON-PSEUDO/NOM-DU-PROJET-2) · 📄 [Résumé](https://github.com/TON-PSEUDO/NOM-DU-PROJET-2#readme)
+- 🔗 Dépôt GitHub : bientôt disponible
 
 ### 3. Prochain projet 🚧 *en cours de réalisation*
 > Python · SQL · Excel VBA
 
-D'autres projets data et finance arrivent : reviens bientôt, ou [suis mon profil](https://github.com/TON-PSEUDO) pour ne rien manquer.
+D'autres projets data et finance arrivent : reviens bientôt, ou [suis mon profil](https://github.com/DatasChrist) pour ne rien manquer.
 
 ---
 
